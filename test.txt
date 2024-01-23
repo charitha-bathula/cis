@@ -1,3 +1,6 @@
 Today is Monday
 Tomorrow in Tuesday
 and wednesday
+
+
+DevOps is enjoyable
